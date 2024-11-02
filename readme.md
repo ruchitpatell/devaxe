@@ -1,0 +1,1 @@
+store for my configs, shortcuts, and personalization
